@@ -1,6 +1,6 @@
 # Image Classification using bag-of-visual-words model
 
-python 3.6.3 
+python 3.6.3  
 opencv 3.3.1
 
 # Usage
