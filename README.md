@@ -1,7 +1,7 @@
 # Image Classification using bag-of-visual-words model
 
-# python 3.6.3 
-# opencv 3.3.1
+python 3.6.3 
+opencv 3.3.1
 
 # Usage
 Using color histogram as feature
