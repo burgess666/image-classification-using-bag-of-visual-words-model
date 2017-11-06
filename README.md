@@ -4,8 +4,8 @@ python 3.6.3
 opencv 3.3.1
 
 # Usage
-Using color histogram as feature
+Using color histogram as feature <br />
 python3 Baseline.py --train path_to_your_train_set --test path_to_your_test_set
 
-Using bag-of-visual-words model with SIFT feature
+Using bag-of-visual-words model with SIFT feature <br />
 python3 BoVW.py --train path_to_your_train_set --test path_to_your_test_set
